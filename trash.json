@@ -1,0 +1,16 @@
+{
+  "symbol": "LTOBTC",
+  "orderId": 35673790,
+  "orderListId": -1,
+  "clientOrderId": "Y89RU7vSqsNp6a9cdv4fwj",
+  "transactTime": 1612656280001,
+  "price": "0.00000000",
+  "origQty": "27.00000000",
+  "executedQty": "27.00000000",
+  "cummulativeQuoteQty": "0.00017496",
+  "status": "FILLED",
+  "timeInForce": "GTC",
+  "type": "MARKET",
+  "side": "BUY",
+  "fills": [{"price": "0.00000648", "qty": "27.00000000", "commission": "0.02700000", "commissionAsset": "LTO", "tradeId": 3664967}]
+}
